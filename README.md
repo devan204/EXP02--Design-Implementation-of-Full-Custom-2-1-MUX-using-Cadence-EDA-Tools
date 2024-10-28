@@ -79,7 +79,7 @@ iv)	Creating the new test cell view
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
-	Execute Setup—Simulation/directory/Host A new window opens
+	Execute Setup—Simulation/directory/Host A new window open
 	Set the simulation window to spectre and click ok
 	Execute Analysis – Choose. A window opens.
 	Select the type and set the specifications and press OK
